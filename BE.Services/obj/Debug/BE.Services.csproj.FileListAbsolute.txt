@@ -1,0 +1,5 @@
+H:\RnD\oNET\BExpress\BESolution\BE.Services\bin\Debug\BE.Services.dll
+H:\RnD\oNET\BExpress\BESolution\BE.Services\bin\Debug\BE.Services.pdb
+H:\RnD\oNET\BExpress\BESolution\BE.Services\obj\Debug\BE.Services.csprojResolveAssemblyReference.cache
+H:\RnD\oNET\BExpress\BESolution\BE.Services\obj\Debug\BE.Services.dll
+H:\RnD\oNET\BExpress\BESolution\BE.Services\obj\Debug\BE.Services.pdb

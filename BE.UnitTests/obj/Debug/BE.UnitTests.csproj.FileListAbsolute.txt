@@ -1,0 +1,11 @@
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\BE.UnitTests.dll
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\BE.UnitTests.pdb
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\BE.Services.dll
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\Moq.dll
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\nunit.framework.dll
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\BE.Services.pdb
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\Moq.xml
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\bin\Debug\nunit.framework.xml
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\obj\Debug\BE.UnitTests.csprojResolveAssemblyReference.cache
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\obj\Debug\BE.UnitTests.dll
+H:\RnD\oNET\BExpress\BESolution\BE.UnitTests\obj\Debug\BE.UnitTests.pdb
