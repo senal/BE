@@ -171,7 +171,7 @@ namespace BE.UnitTests.BESystem
         }
 
         [Test]
-        public void InboxRefresh_ShoulAbleGetMessageById()
+        public void InboxRefresh_ShouldAbleGetAMessageById()
         {
             //Arrange
             IMail mailMessage = new Email() { Id = 1234, Sender = new Sender() { Address = "ranga@gmail.com", Name = "Ranga" } };
